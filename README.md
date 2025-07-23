@@ -8,7 +8,7 @@ Mohammad Hosseini*, Catherine A. Gao*, David M. Liebovitz, Alexandre M. Carvalho
 _Published: October 5, 2023_  
 [DOI: 10.1371/journal.pone.0292216](https://doi.org/10.1371/journal.pone.0292216)
 
-CAG performed all coding and analysis. 
+**CAG performed all coding and analysis, please open issues in this repository with questions.
 ---
 
 ## Overview
