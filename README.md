@@ -8,12 +8,12 @@ Mohammad Hosseini*, Catherine A. Gao*, David M. Liebovitz, Alexandre M. Carvalho
 _Published: October 5, 2023_  
 [DOI: 10.1371/journal.pone.0292216](https://doi.org/10.1371/journal.pone.0292216)
 
-**CAG performed all coding and analysis, please open issues in this repository with questions.
+
 ---
 
 ## Overview
 
-This repository provides resources to reproduce the analyses from the above paper, which explores perceptions, applications, and concerns regarding the use of ChatGPT in education, healthcare, and research through a cross-sectional survey.
+This repository provides resources to reproduce the analyses from the above paper, which explores perceptions, applications, and concerns regarding the use of ChatGPT in education, healthcare, and research through a cross-sectional survey. CAG performed all coding and analysis, please open issues in this repository with questions.
 
 
 ### Setup
@@ -21,4 +21,4 @@ This repository provides resources to reproduce the analyses from the above pape
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/cloverbunny/gptsurvey.git
-   cd chatgpt-survey-paper
+   cd gptsurvey
